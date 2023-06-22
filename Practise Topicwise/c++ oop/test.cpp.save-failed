@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main(){
+char ch='b';
+cout<<ch;
+int p=ch;
+cout<<p;
+int *ptr=&ch;
+
+}
